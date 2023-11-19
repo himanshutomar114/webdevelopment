@@ -1,0 +1,65 @@
+body{
+    background: url(/backgroundimage.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 0%;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+}
+a{
+margin-left: 1%;
+    text-decoration: none;
+    text-align: center;
+    padding: 3px;
+    color: black;
+    font-weight: 500;
+    
+}
+button,.srch{
+    float: right;
+    font-size: 100%;
+}
+
+a:hover{
+    color: blue;
+}
+form{
+    background-color: black;
+    color: white;
+    text-align: left;
+    margin: 1%;
+    margin-top: 4%;
+    margin-right: 60%;
+    padding: 1%;
+    border-radius: 1rem;
+    font-size: 25px;
+   padding-bottom: 5%; 
+}
+
+#oder{
+    background-color: yellow;
+    font-size: 25px;
+    size: 10%;
+    float: left;
+    border-radius: 0.5rem;
+
+    
+}
+input{
+    font-size: 70%;
+}
+select{
+    font-size: 80%;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-left: 2%;
+
+}
